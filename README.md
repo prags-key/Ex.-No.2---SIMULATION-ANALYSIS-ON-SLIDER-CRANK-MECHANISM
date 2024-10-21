@@ -39,10 +39,8 @@
 
 
 ## Output
-![Screenshot (73)](https://github.com/user-attachments/assets/966d7691-b304-49f2-b1b7-288b1281a63c)
-![Screenshot (74)](https://github.com/user-attachments/assets/a54870e3-25e2-41e8-b8c2-660dfd519037)
-
-
+![Screenshot (75)](https://github.com/user-attachments/assets/ae04afa0-b3ec-4c43-8ab3-45bd1e699b7d)
+![Screenshot (76)](https://github.com/user-attachments/assets/f112710a-48d7-43f7-8502-243342cd4451)
 
 ### Name:
 PRAGATHI KUMAR
